@@ -1,0 +1,41 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  font-family: 'Oxygen', sans-serif;
+}
+
+/** HEADER **/
+#header-nav {
+  background-color: gray;
+  border-radius: 0;
+  border: 0;
+}
+h1{
+  text-align: center;
+  text-transform: capitalize;
+  color: black;
+}
+h2{
+  text-align: center;
+  padding: 0px 15px;
+  color: black;
+  
+}
+p{
+  clear: both;
+  padding-left: 10px;
+  color: black;
+  text-align: center;
+}
+section{
+  background-color: grey;
+  border: 1px solid black;
+  margin: 10px;
+}
+
+
+
+
+
+
+
